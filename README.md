@@ -11,3 +11,7 @@ for i in range(n):
 print("\nYour Daily Study Plan:")
 for sub in subjects:
     print("- Study", sub, "for 1 hour")
+# Smart Learning Planner
+Beginner-level Python project to create a simple study plan.
+Tech Stack: Python
+Author: Vivek Sen
